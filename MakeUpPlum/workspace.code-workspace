@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "MakeUp_plum",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "..\\..\\..\\wamp\\www\\MakeUp_plum\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MakeUp_plum"
+	}
+}
